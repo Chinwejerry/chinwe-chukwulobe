@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@import url("https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Cursive:wght@400..700&display=swap");
+
+@theme {
+  --font-edu: "Edu NSW ACT Cursive", cursive;
+}
+
+#root {
+  min-height: 100vh;
+  position: relative;
+}
