@@ -12,7 +12,7 @@ const projects = [
     description:
       "Full-stack CRUD app using MERN stack to manage tasks efficiently. Users can create, update, delete, and mark tasks as completed, with a clean and responsive interface. Login with this, email: chinwe@gmail.com password: 123456 ",
     image: "/images/p.png",
-    link: "https://projectmanagementfrontend-spda.onrender.com/adminDashboard",
+    link: "https://projectmanagementfrontend-spda.onrender.com/",
   },
   {
     title: "Nasco Ecommerce Website",
