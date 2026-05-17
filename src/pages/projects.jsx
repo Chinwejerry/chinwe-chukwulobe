@@ -15,11 +15,11 @@ const projects = [
     link: "https://projectmanagementfrontend-spda.onrender.com/",
   },
   {
-    title: "Nasco Ecommerce Website",
+    title: "Job Tracker",
     description:
-      "An e-commerce web application built in collaboration with a team for Nasco, allowing them to sell products directly to consumers. This platform enhances the customer experience by making their products easily accessible online",
+      "A Simple Job Tracker to track the jobs and companies i applied to",
     image: "/images/s.png",
-    link: "https://www.nascodirect.net/",
+    link: "https://chinwejobtracker.netlify.app/",
   },
 
   // add other projects similarly...
