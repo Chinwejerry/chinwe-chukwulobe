@@ -10,10 +10,18 @@ const projects = [
   {
     title: "Project Manager App",
     description:
-      "Full-stack CRUD app using MERN stack to manage tasks efficiently. Users can create, update, delete, and mark tasks as completed, with a clean and responsive interface. Login with this, email: chinwe@gmail.com password: 123456 ",
+      "Full-stack simple CRUD app using MERN stack to manage finance efficiently. Users can create, update, delete, with a clean and responsive interface.You can register or Login with this, email: chinwe@example.com password: 123456 ",
     image: "/images/p.png",
-    link: "https://projectmanagementfrontend-spda.onrender.com/",
+    link: "https://jccfinance.netlify.app/",
   },
+
+  // {
+  //   title: "Project Manager App",
+  //   description:
+  //     "Full-stack CRUD app using MERN stack to manage tasks efficiently. Users can create, update, delete, and mark tasks as completed, with a clean and responsive interface. Login with this, email: chinwe@gmail.com password: 123456 ",
+  //   image: "/images/p.png",
+  //   link: "https://projectmanagementfrontend-spda.onrender.com/",
+  // },
   {
     title: "Job Tracker",
     description:
