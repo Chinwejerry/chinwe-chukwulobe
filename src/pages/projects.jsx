@@ -8,7 +8,7 @@ const projects = [
     link: "https://chinwe-chukwulobe.netlify.app/",
   },
   {
-    title: "Project Manager App",
+    title: "JCC Finance Manager",
     description:
       "Full-stack simple CRUD app using MERN stack to manage finance efficiently. Users can create, update, delete, with a clean and responsive interface.You can register or Login with this, email: chinwe@example.com password: 123456 ",
     image: "/images/p.png",
