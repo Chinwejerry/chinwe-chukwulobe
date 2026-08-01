@@ -15,13 +15,12 @@ const projects = [
     link: "https://jccfinance.netlify.app/",
   },
 
-  // {
-  //   title: "Project Manager App",
-  //   description:
-  //     "Full-stack CRUD app using MERN stack to manage tasks efficiently. Users can create, update, delete, and mark tasks as completed, with a clean and responsive interface. Login with this, email: chinwe@gmail.com password: 123456 ",
-  //   image: "/images/p.png",
-  //   link: "https://projectmanagementfrontend-spda.onrender.com/",
-  // },
+  {
+    title: "Project Manager App",
+    description: "Fashion Website for my brothers business. ",
+    image: "/images/n.png",
+    link: "https://whysobadoriginals.com/",
+  },
   {
     title: "Job Tracker",
     description:
