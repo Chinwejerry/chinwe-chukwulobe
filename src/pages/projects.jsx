@@ -8,6 +8,13 @@ const projects = [
     link: "https://chinwe-chukwulobe.netlify.app/",
   },
   {
+    title: "Portfolio Website",
+    description: "Created a portfolio Website for my sister. ",
+    image: "/images/ad.png",
+    link: "https://addyui.vercel.app//",
+  },
+
+  {
     title: "JCC Finance Manager",
     description:
       "Full-stack simple CRUD app using MERN stack to manage finance efficiently. Users can create, update, delete, with a clean and responsive interface.You can register or Login with this, email: chinwe@example.com password: 123456 ",
@@ -16,7 +23,7 @@ const projects = [
   },
 
   {
-    title: "Project Manager App",
+    title: "Why So Bad Fashion",
     description: "Fashion Website for my brothers business. ",
     image: "/images/n.png",
     link: "https://whysobadoriginals.com/",
